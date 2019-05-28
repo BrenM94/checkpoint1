@@ -32,3 +32,4 @@ let minMax = (array) => {
     } result.push(min, max);
     return result;
 }
+
